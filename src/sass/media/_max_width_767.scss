@@ -1,0 +1,26 @@
+@media (max-width: 767px) {
+    .container {
+        max-width: 500px;
+    }
+    .header {
+        &__official {
+            display: none;
+        }
+    }
+    .promo {
+        min-height: 480px;
+        padding-bottom: 40px;
+        &__header {
+            font-size: 32px;
+        }
+        &__subheader {
+            display: none;
+        }
+        &__icons {
+            margin-top: 40px;
+        }
+    }
+    .title {
+        font-size: 24px;
+    }
+}
