@@ -36,6 +36,11 @@
             height: 40px;
             font-size: 12px;
         }
+        &_submit {
+            width: 100%;
+            height: 40px;
+            font-size: 12px;
+        }
     }
     .title {
         font-size: 22px;
@@ -53,6 +58,16 @@
             &:nth-child(3) {
                 margin-top: 0;
             }
+        }
+    }
+    .consultation {
+        &__descr {
+            font-size: 18px;
+        }
+    }
+    .feed-form {
+        &_small {
+            width: 250px
         }
     }
 }
