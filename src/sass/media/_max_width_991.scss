@@ -41,5 +41,20 @@
     }
     .title {
         font-size: 28px;
+        &_left {
+            text-align: center;
+            line-height: 36px;
+        }
+    }
+    .consultation {
+        min-height: 430px;
+        padding: 50px 0 50px 0;
+        &__descr {
+            text-align: center;
+            margin-top: 60px;
+        }
+    }
+    .feed-form {
+        margin: 36px auto 0;
     }
 }

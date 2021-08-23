@@ -21,6 +21,14 @@
         }
     }
     .title {
-        font-size: 24px;
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .consultation {
+        min-height: 400px;
+        padding: 40px 0 40px;
+        &__descr {
+            margin-top: 40px;
+        }
     }
 }

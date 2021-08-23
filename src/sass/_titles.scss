@@ -4,4 +4,11 @@
     font-size: 30px;
     font-weight: 700;
     text-align: center;
+    text-transform: uppercase;
+    &_left {
+        color: $second-color;
+        font-size: 36px;
+        text-align: left;
+        line-height: 45px;
+    }
 }
