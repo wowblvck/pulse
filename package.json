@@ -1,7 +1,6 @@
 {
-  "name": "uber",
+  "name": "pulse",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,5 +23,13 @@
     "maintained node versions",
     "not dead"
   ],
-  "dependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowblvck/pulse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wowblvck/pulse/issues"
+  },
+  "homepage": "https://github.com/wowblvck/pulse#readme",
+  "description": ""
 }
